@@ -23,7 +23,7 @@ Desde la carpeta del proyecto:
 ```bash
 cd AUTO_API_PETSTORE_SCREENPLAY
 chmod +x gradlew
-./gradlew clean test
+./gradlew clean test aggregate
 ```
 
 El proyecto está configurado para generar reportes automáticamente al final de `test`.
